@@ -1,0 +1,11 @@
+check_id,category,requirement,evidence,weight,max_points
+CHK-001,Warehouse Infrastructure,"Warehouse is secure (locked doors, fencing, lighting)","Photos, key log, security report",15,15
+CHK-002,Warehouse Infrastructure,Adequate ventilation and protection from weather,"Observation, temperature/humidity logs",12,12
+CHK-003,Stock Organization,FIFO/FEFO system visibly implemented,"Stock cards, physical layout",18,18
+CHK-004,Stock Organization,Clear separation of damaged/expired items,"Quarantine area, labels",20,20
+CHK-005,Documentation,Updated stock ledger / bin cards for each item,Sample bin cards / ledger entries,15,15
+CHK-006,Documentation,Waybills and GRNs match physical stock,Sample waybills + count,18,18
+CHK-007,Expiry Management,Expiry dates tracked and visible,Stock report showing expiry dates,22,22
+CHK-008,Expiry Management,No expired items in main storage area,Physical inspection,25,25
+CHK-009,Safety & Hygiene,Fire extinguishers present and serviced,Inspection tags,10,10
+CHK-010,Safety & Hygiene,Pest control measures in place,Contract or logs,12,12

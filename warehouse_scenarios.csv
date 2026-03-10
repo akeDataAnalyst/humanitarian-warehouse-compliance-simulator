@@ -1,0 +1,6 @@
+scenario_id,country,title,description,key_challenges
+SCN-001,South Sudan,Flood-damaged warehouse in Juba,Heavy flooding has damaged roofing and floors. Some pallets of nutrition supplements are wet. Access roads are partially cut off.,"['Damaged stock', 'Risk of contamination', 'Delayed distribution', 'Documentation of losses']"
+SCN-002,Yemen,Access-blocked warehouse in Sana'a,Movement restrictions prevent regular stock counts and distributions for 45 days. Some items are nearing expiry.,"['Access delays', 'Expiry risk', 'Donor reporting pressure', 'No recent physical verification']"
+SCN-003,Ethiopia,High-turnover nutrition store in Tigray,Rapid distribution of RUTF/RUSF due to SAM surge. Stock cards not updated in last 3 weeks.,"['Poor record-keeping', 'Potential stock discrepancies', 'High consumption rate', 'Audit upcoming']"
+SCN-004,Afghanistan,Cold-chain medical store in Kabul,Generator failed for 36 hours during heatwave. Vaccines and insulin at risk.,"['Temperature excursion', 'Product efficacy loss', 'Donor compliance issue', 'Replacement procurement delay']"
+SCN-005,Bangladesh,Rohingya camp NFI warehouse,High demand for tarps and blankets during monsoon. FIFO not consistently applied.,"['FIFO violation risk', 'Overstock of older items', 'Distribution equity', 'Crowded storage']"

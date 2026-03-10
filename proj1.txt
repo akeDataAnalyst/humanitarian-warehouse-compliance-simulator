@@ -1,0 +1,59 @@
+Project 1: Global Inventory Analytics Dashboard
+
+Description: An interactive web application built with Python (using libraries like Pandas, NumPy, and Plotly) and deployed via Streamlit, simulating a global warehousing and inventory management (WIM) system for humanitarian operations. 
+The dashboard allows users to upload inventory datasets (e.g., CSV files from multiple country offices), perform real-time analytics, visualize stock levels, trends, and KPIs, and generate compliance reports. 
+Features include data cleaning, forecasting (using simple time-series models), and customizable filters for multi-country views.
+
+Problem and Solution: 
+Problem: In decentralized humanitarian supply chains like CARE's (spanning 60+ warehouses across 50+ countries), tracking inventory accuracy, identifying stock discrepancies, and ensuring compliance with donor requirements can be challenging due to fragmented data from diverse locations, leading to inefficiencies, audit risks, and delayed aid delivery.
+Solution: The dashboard addresses this by integrating mock or sample datasets (e.g., from open humanitarian data sources like HDX) to demonstrate data migration, quality checks, and visualization. Python scripts handle backend processing (e.g., aggregating data across "country offices," calculating KPIs like stock turnover rates or expiry risks), while Streamlit provides a user-friendly interface for non-technical users to run simulations, test scenarios (e.g., emergency stock pre-positioning), and export audit-ready reports. This mirrors CARE's WIM system testing, UAT, and analytics responsibilities.
+
+Recommendation: This project is ideal for showcasing your fit for the role as it directly demonstrates experience in data analytics/visualization, WIM system support (e.g., mimicking ERP data flows), and global compliance tools—key required qualifications. Host it on GitHub with a live Streamlit demo (via Streamlit Sharing) and include a README explaining how it could scale to CARE's operations, emphasizing humanitarian contexts like emergency response in Ethiopia or Africa. 
+It highlights your ability to build capacity-building resources (e.g., embedded user guides) and contribute to global KPIs/dashboards.
+
+JOB SUMMARY:
+
+CARE operates 60+ warehouses across 50+ countries. The Warehousing & Inventory Specialist will provide high-level technical support, guidance, and oversight to CARE Country Offices worldwide. The role will strengthen global supply chain capabilities by supporting the design, implementation, and continuous improvement of the Warehousing & Inventory Management (WIM) systems and standards. Responsibilities include global process validation, system testing and enhancement, troubleshooting, technical capacity building, and leading the development of global WIM policies, procedures, tools, key performance indicators, and guidance materials. The Specialist will also work to ensure global compliance with logistics policies, contribute to audit readiness across countries, and support strategic initiatives that enhance visibility, accuracy, and accountability in inventory management across CARE’s global operations.
+
+RESPONSIBILITIES:
+
+Technical Support & Guidance
+
+Develop and disseminate global WIM policies, procedures, guidelines, templates, checklists, and knowledge resources.
+Support global and regional logistics communities of practice by facilitating learning sessions, knowledge sharing, and problem-solving forums
+Provide expert technical assistance to Country Offices on warehousing and inventory management systems, standards, and compliance requirements.
+Serve as a global focal point for WIM system-related queries, ensuring timely and effective resolution of technical issues.
+ 
+
+Systems Testing & Support 
+
+Participate in WIM system design and testing 
+Participate in system configuration, workflow design, and continuous improvement of logistics information systems.
+Support global data migration processes, including master data creation, data quality checks, and cross-system conversion.
+Support user acceptance testing (UAT) and validation of the global WIM system design/enhancements.
+Support coordination of global system roll-outs, including hyper-care and post-deployment support.
+Monitor system adoption/use metrics and support user adoption initiatives 
+ 
+
+Capacity Building & Technical Training
+
+Design and deliver training programs on WIM systems, tools, and processes.
+Develop training modules, user guides, learning videos, and capacity-building materials for Country Offices.
+Support identification, evaluation, and roll-out of external capacity building resources.
+Strengthen the capability of WIM focal points through mentorship and targeted technical coaching.
+ 
+
+Reporting, Analytics & Continuous Improvement
+
+Support the development of global key performance indicators, analytical tools, and WIM dashboards. 
+Analyze global warehousing and inventory data to identify trends, challenges, and optimization opportunities.
+Contribute to global supply chain transformation initiatives aimed at improving efficiency, accountability, and data visibility.
+Support users in accessing reporting tools/dashboards, and build a data-use culture.
+ 
+
+Compliance, Global Assurance & Audit Support
+
+Ensure WIM operations are done in compliance with CARE WIM policies, procedures, donor requirements, local law, and industry best practices.
+Support Country Offices in preparing for audits by providing system extracts, reviewing documentation, and support implementation of corrective actions.
+Identify systemic risks and recurring gaps across countries and propose global mitigation measures.
+
